@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https;//AnupsaiBavireddy.github.io/react-love-letter/static/css/main.5792c51f.css",
-    "main.js": "/https;//AnupsaiBavireddy.github.io/react-love-letter/static/js/main.19d61c68.js",
-    "static/js/453.c597153d.chunk.js": "/https;//AnupsaiBavireddy.github.io/react-love-letter/static/js/453.c597153d.chunk.js",
-    "static/media/part1.mp3": "/https;//AnupsaiBavireddy.github.io/react-love-letter/static/media/part1.5cd12b43a2b1088209b5.mp3",
-    "index.html": "/https;//AnupsaiBavireddy.github.io/react-love-letter/index.html",
-    "main.5792c51f.css.map": "/https;//AnupsaiBavireddy.github.io/react-love-letter/static/css/main.5792c51f.css.map",
-    "main.19d61c68.js.map": "/https;//AnupsaiBavireddy.github.io/react-love-letter/static/js/main.19d61c68.js.map",
-    "453.c597153d.chunk.js.map": "/https;//AnupsaiBavireddy.github.io/react-love-letter/static/js/453.c597153d.chunk.js.map"
+    "main.css": "/react-love-letter/static/css/main.5792c51f.css",
+    "main.js": "/react-love-letter/static/js/main.2f9e4cec.js",
+    "static/js/453.c597153d.chunk.js": "/react-love-letter/static/js/453.c597153d.chunk.js",
+    "static/media/part1.mp3": "/react-love-letter/static/media/part1.5cd12b43a2b1088209b5.mp3",
+    "index.html": "/react-love-letter/index.html",
+    "main.5792c51f.css.map": "/react-love-letter/static/css/main.5792c51f.css.map",
+    "main.2f9e4cec.js.map": "/react-love-letter/static/js/main.2f9e4cec.js.map",
+    "453.c597153d.chunk.js.map": "/react-love-letter/static/js/453.c597153d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5792c51f.css",
-    "static/js/main.19d61c68.js"
+    "static/js/main.2f9e4cec.js"
   ]
 }
