@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.envelope {
+  position: absolute;
+  top: 50%; /* Position the top of the envelope at the vertical center of the page */
+  right: 50px; /* Position the right side of the envelope at a distance of 50px from the right edge */
+  transform: translateY(-50%); /* Adjust for vertical centering */
+  width: 600px;
+  height: 400px;
+  cursor: pointer;
+  perspective: 1000px;
+  background: url('https://github.com/AnupsaiBavireddy/page-background/blob/main/D6A66846-363D-4A31-8D82-2BB9B453593C_4_5005_c.jpeg?raw=true');
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.6s ease;
+}
+  
+  .flap {
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background: url('https://github.com/AnupsaiBavireddy/page-background/blob/main/0D00AF15-DF62-46EE-893E-77087E5AF08F_4_5005_c.jpeg?raw=true');
+    background-size: cover;  
+    background-position: center; 
+    transform-origin: bottom;
+    transition: transform 0.8s ease;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  .open .flap {
+    transform: rotateX(-180deg);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  }
+
+  .body {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 50%;
+    background: url('https://github.com/AnupsaiBavireddy/page-background/blob/main/old-letter-envelope-red-wax-260nw-567099247%205.jpg?raw=true');
+    background-size: cover; 
+    background-position: center;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    z-index: -1;
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .letter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 120%;
+    height: auto;
+    transition: all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1);
+    opacity: 0;
+    font-family: 'Dancing Script', cursive; /* Imported font-family */
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: justify;
+  }
+  
+  .letter.fullSize {
+    opacity: 1;
+  }
+  
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200%;
+    background-image: url('https://github.com/AnupsaiBavireddy/page-background/blob/main/613985A9-2A66-4545-85D6-F30231FAA49F_1_201_a.jpeg?raw=true');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+  }
+
+  .letter-content {
+    height: calc(100% - 25px); /* Adjust the height to accommodate padding */
+    overflow-y: auto;
+    background-image: url('https://github.com/AnupsaiBavireddy/page-background/blob/main/907769C4-EA35-4C44-97EA-E62D3175132A.JPG?raw=true');
+    background-size: cover; /* Adjusted to cover the container */
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent background image from repeating */
+    padding: 25px; /* Add padding */
+    border-radius: 15px; /* Adjust the value as needed */
+    box-sizing: border-box; /* Ensure padding is included in the height calculation */
+  }
+  
+  .sign {
+    position: absolute;
+    bottom: 20px; /* Adjust the distance from the bottom as needed */
+    right: 20px; /* Adjust the distance from the right as needed */
+    width: 150px; /* Adjust the width as needed */
+    height: 100px; /* Let the height adjust proportionally */
+    padding: 30px;
+  }
+  
+  .sign img {
+    width: 100%;
+    height: auto;
+    background-color: aliceblue;
+  }
