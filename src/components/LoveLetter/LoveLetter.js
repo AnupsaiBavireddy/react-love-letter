@@ -67,7 +67,7 @@ const LoveLetter = () => {
 
               nuv aduguthu untav - "best memories📝 chepu manavi manavi👩🏻‍❤️‍👨🏻 ani", nitho best👌🏻 enti worest👎🏻 enti priyaa every moment📸 is most valuable moment✨💫, sare nuv adigav kabatti chepthunna -
               manam coaching📚 ki ellinapudu every dayy🌞 kalisevallam chala enjoy🕺💃🪩 chesa endhuku antey nak nithoo chala luxarious💸 ga undali ani em undadhu - roju chala simple👫🏻 ga bayataki elli, snacks🍿 em ayyna ala thintu kudhiritey beach🏖️ ki elli ala matladukuntu👩🏻‍❤️‍💋‍👨🏻 unndali ani untadhi.
-              andhuke priya nak ah coaching📚 days nachuthaii🫶🏻. alaney papam na kosam evo evo chedham anukuntav😅🥲 kani anni fali👎🏻 avthai parledhu le its okay, ala ani ipudu cheyadam aapeyaka🤌🏻 - ni failure ayyna nadhi ayyna kalisi👫🏻 face chedham priyaa.
+              andhuke priya nak ah coaching📚 days nachuthaii🫶🏻. alaney papam na kosam evo evo chedham anukuntav😅🥲 kani anni fail👎🏻 avthai parledhu le its okay, ala ani ipudu cheyadam aapeyaka🤌🏻 - ni failure ayyna nadhi ayyna kalisi👫🏻 face chedham priyaa.
               <br/><br/>
               inka chala cheppali🥹 ani undi, migathavi manam epudu itey nen anukunna daily life cycle🔄 lo ki manam velipothamo apudu cheptha, antha varuku ninnu pathi kshanam⏳ marchipokunda premisthu❤️‍🔥 untuney unta.<br/><br/>
 
